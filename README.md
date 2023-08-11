@@ -1,4 +1,4 @@
 # Machine-Leaning
 These are the practical implementations of Machine Learning Algorithms using libraries in Python like Sklearn, Scikit-learn, Numpy, Pandas etc..
 
-<img src="https://www.wordstream.com/wp-content/uploads/2021/07/machine-learning.png" alt="ML" width="100" height="100"/>
+<img src="https://www.wordstream.com/wp-content/uploads/2021/07/machine-learning.png" alt="ML" width="1000" height="1000"/>
